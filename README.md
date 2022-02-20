@@ -21,5 +21,5 @@ I am Cheruto. An Aspiring Software Engineer and overall Techie.
 - 🌱 I’m currently learning Data Science using Python
 - 👯 I’m looking to collaborate on any project where I can be resourceful
 - ⚡ I really love learning. I taught myself a bit of Deutsch and I am currently lerning 한국어.
-- ⚡ I would love to travel and Explore the world.
+- ⚡ I would love to travel and Explore the world
 
