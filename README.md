@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Laravel**
 
-- ⚡ Fun fact **I have learnt Deutsch and 한국어**
+- ⚡ Fun fact **Speaks Very Basic Deutsch and 한국어**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
