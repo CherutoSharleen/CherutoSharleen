@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel**.
 
 - ⚡ Fun fact **Speaks Basic Deutsch and 한국어**
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherutosharleen&show_icons=true&locale=en" alt="cherutosharleen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherutosharleen&" alt="cherutosharleen" /></p>
+.
