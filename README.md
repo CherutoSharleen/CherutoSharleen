@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cheruto</h1>
 <h3 align="center">A passionate backend Web developer and AI/ML developer</h3>
 
-- 🔭 I’m currently working on **Websites**
+<!-- - 🔭 I’m currently working on **Websites** -->
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **Laravel**.
+<!-- - 💬 Ask me about **Laravel**. -->
 
 - ⚡ Fun fact **Speaks Basic Deutsch and 한국어**
 
