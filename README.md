@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cheruto</h1>
+<h1 align="center">Hi 👋, I'm Sharleen</h1>
 <h3 align="center">A Backend Web developer and AI/ML developer</h3>
 
 <!-- - 🔭 I’m currently working on **Websites** -->
