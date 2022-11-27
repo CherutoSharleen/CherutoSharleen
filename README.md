@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **Websites**    -->
 
-- 🌱 I am currently learning **Data Analysis**.
+- I am currently learning **Data Science**.
 
 <!-- - 💬 Ask me about **Laravel**. -->
 
