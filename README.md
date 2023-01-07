@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharleen</h1>
-<h3 align="center">A Backend Web developer and AI/ML developer</h3>
+<h3 align="center">A Backend Web developer(Laravel) and ML developer</h3>
 
 <!-- - 🔭 I’m currently working on **Websites**    -->
 
