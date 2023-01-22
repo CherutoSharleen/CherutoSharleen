@@ -4,6 +4,7 @@
 <!-- - 🔭 I’m currently working on **Websites**    -->
 
 - I am currently learning **Data Science**.
+- I am interested in working on **Open Source Projects**
 
 <!-- - 💬 Ask me about **Laravel**. -->
 
