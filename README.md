@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sharleen</h1>
-<h3 align="center">A Backend Web developer(Laravel) and ML developer</h3>
+<h3 align="center">ML developer</h3>
 
 <!-- - 🔭 I’m currently working on **Websites**    -->
 
-- I am currently learning **Data Science**.
-- I am interested in working on **Open Source Projects**
+Retrieval and evaluation for AI systems. How machines find the right thing, and how we know whether they did.
+
+I currently work in Search, Assistant and Intelligence on agent and plugin discovery for Microsoft 365 Copilot — the systems that decide which tool a user's request should reach. Ingestion, semantic retrieval, ranking, and the measurement that says whether a change actually helped.
+
+Two things I keep running into, and mostly what I build around. The ranking function is rarely where failures live — they happen upstream, in how documents were modelled, which fields were indexed, whether morphology was handled, and whether the query was ever a search query to begin with. And a confident number is often measuring something other than what the team thinks it is.
 
 <!-- - 💬 Ask me about **Laravel**. -->
 
